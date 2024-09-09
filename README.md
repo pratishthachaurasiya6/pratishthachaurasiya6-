@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratishtha Chaurasiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate front-end developer from India</h3>
 <img align="right" alt="conding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, ReactJs**
+- 🌱 I’m currently learning MERN Stack
 
-- 💬 Ask me about **HTML, CSS ,JavaScript ,Bootstrap, Tailwind ,**
+- 💬 Ask me about **HTML, CSS ,JavaScript ,Bootstrap, Tailwind , ReactJS**
 
 - 📫 How to reach me **pratishthachaurasiya6@gmail.com**
 
